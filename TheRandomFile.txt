@@ -1,0 +1,2 @@
+The value <insert_value> has been randomly generated and commited on <date and hour>
+La valeur <inserer_valeur> a été générée aléatoirement et commit le <date et heure>
